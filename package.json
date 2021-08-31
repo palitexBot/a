@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/palitexBot/a/issues"
   },
-  "homepage": "https://github.com/palitexBot/a#readme"
+  "homepage": "https://github.com/palitexBot/a#readme",
+  "devDependencies": {
+    "node": "^16.6.1"
+  }
 }
